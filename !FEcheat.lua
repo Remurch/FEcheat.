@@ -626,7 +626,7 @@ end)
 
 StarterGui:SetCore("SendNotification", {
     Title = "Скрипт активирован";
-    Text = "Скрипт успешно загружен! **@Remurch1k**";
+    Text = "Скрипт успешно загружен! TG: @Remurch1k";
     Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150";
     Duration = 5;
     TextSize = 20; -- Увеличенный размер текста
